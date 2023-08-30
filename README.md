@@ -4,7 +4,7 @@ My Data analysis portfolio [TH- for now]
 # [Project 1: Thailand PM2.5 Report](https://github.com/nittayattngx/Thailand-PM2.5-Report)
 
 <p>&emsp;
-สร้างแดชบอร์ด Power BI รายงานค่าฝุ่น PM 2.5 รายวันในประเทศไทย (ดูได้โดยกดที่หัวข้อ Project)
+get api สร้างแดชบอร์ด Power BI รายงานค่าฝุ่น PM 2.5 รายวันในประเทศไทย (ดูได้โดยกดที่หัวข้อ Project)
 </p>
 
 <p><b>Overview</b></p>

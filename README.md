@@ -14,7 +14,7 @@ My Data analysis portfolio [TH- for now]
 </p>
 
 
-# [Project 1: Web scraping E-commerce website](https://github.com/nittayattngx/Web-scraping-E-commerce-web-site)
+# [Project 2: Web scraping E-commerce website](https://github.com/nittayattngx/Web-scraping-E-commerce-web-site)
 
 <p>&emsp;
 ทำ Web scraping กับ E-commerce website (shopee) โดยใช้ selenium และ beautifulSoup4 รวมทั้ง cleaning data เตรียมไว้สำหรับการใช้งาน (ดูได้โดยกดที่หัวข้อ Project)
